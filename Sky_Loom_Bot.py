@@ -75,7 +75,7 @@ TOKEN = '6774309302:AAG_Occqk52D57rZdPrZB2UhC2Ad_1p41XA'
 
 bot = telepot.Bot(TOKEN)
 MessageLoop(bot, {'chat': on_chat_message, 'callback_query': on_callback_query}).run_as_thread()
-print('Listening ...')
+print('Listening...')
 
 while 1:
     time.sleep(10)
