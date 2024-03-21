@@ -15,7 +15,7 @@ git init
 git add -A
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Soash/test.git
+git remote add origin https://github.com/Soash/sky_loom_bot.git
 git push -u origin main
 
 git add -A && git commit -m "commit" && git push
