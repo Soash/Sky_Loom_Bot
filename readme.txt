@@ -6,6 +6,6 @@ python -m venv venv
 
 pip install requests telepota
 
-python .\Sky_Loom_Bot.py
+python .\main.py
 
 t.me/Sky_Loom_Bot
